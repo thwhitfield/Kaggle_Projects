@@ -1,1 +1,1 @@
-# titanic
+# Repository for Kaggle Projects
